@@ -75,7 +75,7 @@ Praveen Dhanasekar, Cunzhi Zhao and Xingpeng Li, "Quantitative Analysis of Deman
 Paper website: https://rpglab.github.io/papers/Praveen-CunzhiZhao-ISGT-TCL-DR-MG/
 
 ## Contributions:
-This program was initially created by Praveen Dhanasekar, and then modified and cleaned up by Cunzhi Zhao.
+This program was initially created by Praveen Dhanasekar, and then modified and cleaned up by Cunzhi Zhao. Xingpeng Li provided the initial idea and supervised this work.
 
 
 ## Contact:
