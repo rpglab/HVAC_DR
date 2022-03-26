@@ -70,17 +70,18 @@ SampleTest.m file
 ## Citation:
 If you use these codes for your work, please cite the following paper:
 
-<a class="off" href="/papers/Praveen-CunzhiZhao-ISGT-TCL-DR-MG/" target="_blank">Praveen Dhanasekar, Cunzhi Zhao and Xingpeng Li, "Quantitative Analysis of Demand Response Using Thermostatically Controlled Loads", *IEEE PES Innovative Smart Grid Technology*, New Orleans, LA, USA, Apr. 2022.</a>
+Praveen Dhanasekar, Cunzhi Zhao and Xingpeng Li, "Quantitative Analysis of Demand Response Using Thermostatically Controlled Loads", *IEEE PES Innovative Smart Grid Technology*, New Orleans, LA, USA, Apr. 2022.
 
+Paper website: https://rpglab.github.io/papers/Praveen-CunzhiZhao-ISGT-TCL-DR-MG/
 
 ## Contributions:
 This program was initially created by Praveen Dhanasekar, and then modified and cleaned up by Cunzhi Zhao.
 
 
 ## Contact:
-If you need any techinical support, please feel free to reach out to <a class="" href="/people/Cunzhi-Zhao/">Cunzhi Zhao</a> at czhao20@uh.edu or <a class="" href="/people/Praveen-Dhanasekar/">Praveen Dhanasekar</a> at praveendhanasekar07@gmail.com.
+If you need any techinical support, please feel free to reach out to Cunzhi Zhao at czhao20@uh.edu or Praveen Dhanasekar at praveendhanasekar07@gmail.com.
 
-For collaboration, please contact <a class="" href="/people/Xingpeng-Li/">Dr. Xingpeng Li</a>.
+For collaboration, please contact Dr. Xingpeng Li at xli83@central.uh.edu.
 
 Website: <a class="off" href="/"  target="_blank">https://rpglab.github.io/</a>
 
