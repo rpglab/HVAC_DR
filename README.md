@@ -91,5 +91,5 @@ This work is licensed under the terms of the <a class="off" href="https://creati
 
 
 ## Disclaimer:
-The author doesn’t make any warranty for the accuracy, completeness, or usefulness of any information disclosed; and the author assumes no liability or responsibility for any errors or omissions for the information (data/code/results etc) disclosed.
+The authors don’t make any warranty for the accuracy, completeness, or usefulness of any information disclosed; and the author assumes no liability or responsibility for any errors or omissions for the information (data/code/results etc) disclosed.
 
