@@ -1,5 +1,6 @@
 % This work is under the open license of the Creative Commons Attribution 4.0 (CC BY 4.0) license.
 %    https://rpglab.github.io/resources/HVAC_DR/
+%
 % If you use this code or part of the code, please cite the following paper
 %
 %   Praveen Dhanasekar, Cunzhi Zhao and Xingpeng Li, "Quantitative Analysis
